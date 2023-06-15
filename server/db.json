@@ -1,0 +1,86 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sea-Dweller Mark |||",
+      "category": "classic",
+      "price": 17000,
+      "img": "https://s.turbifycdn.com/aah/movadobaby/rolex-sea-dweller-4000-126600-179.jpg"
+    },
+    {
+      "id": 2,
+      "name": "2019 pre-owned Submariner Date",
+      "category": "new",
+      "price": 192547,
+      "img": "https://cdn-images.farfetch-contents.com/20/31/85/84/20318584_50277319_1000.jpg"
+    },
+    {
+      "id": 3,
+      "name": "pre-owned Submariner Date",
+      "category": "classic",
+      "price": 23882,
+      "img": "https://cdn-images.farfetch-contents.com/20/10/08/29/20100829_45204455_1000.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Octea Lux Chrono",
+      "category": "classic",
+      "price": 530,
+      "img": "https://cdn-images.farfetch-contents.com/17/20/60/29/17206029_35220085_1000.jpg"
+    },
+    {
+      "id": 5,
+      "name": "2017 pre-owned Day-Date",
+      "category": "Rolex",
+      "price": 69497,
+      "img": "https://cdn-images.farfetch-contents.com/20/31/85/85/20318585_50277415_1000.jpg"
+    },
+    {
+      "id": 6,
+      "name": "pre-owned Day-Date",
+      "category": "new",
+      "price": 67874,
+      "img": "https://cdn-images.farfetch-contents.com/20/11/53/71/20115371_45198646_1000.jpg"
+    },
+    {
+      "id": 7,
+      "name": "rolex y",
+      "category": "new",
+      "price": 19000,
+      "img": "https://cdn-images.farfetch-contents.com/20/20/81/88/20208188_50087638_1000.jpg"
+    },
+    {
+      "id": 8,
+      "name": "pre-owned Day-Date",
+      "category": "Rolex",
+      "price": 43817,
+      "img": "https://cdn-images.farfetch-contents.com/20/20/81/88/20208188_50087638_1000.jpg"
+    },
+    {
+      "id": 9,
+      "name": "big bang unico nespresso origin",
+      "category": "hublot",
+      "price": 24000,
+      "img": "https://www.hublot.com/sites/default/files/styles/watch_item_desktop_1x_scale_no_crop_600_6000_/public/2023-04/big-bang-unico-nespresso-origin-42-mm-soldier-shot-441.UG_.5220.NR_.NES23.png?itok=mjaEZ17K"
+    },
+    {
+      "name": "pre-owned Datejust ",
+      "category": "classic",
+      "price": 14353,
+      "img": "https://cdn-images.farfetch-contents.com/19/49/94/60/19499460_43435550_1000.jpg",
+      "id": 10
+    },
+    {
+      "name": "watch",
+      "price": "400",
+      "img": "https://images.unsplash.com/photo-1633722715463-d30f4f325e24?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Z29sZGVuJTIwcmV0cmlldmVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "category": "w",
+      "id": 11
+    }
+  ],
+  "category": [
+    "classic",
+    "new",
+    "gym "
+  ]
+}
